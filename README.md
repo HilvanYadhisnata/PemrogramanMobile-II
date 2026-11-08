@@ -1,17 +1,40 @@
-# flutter_application_1
+# Pemrograman Mobile II – Profile App
 
-A new Flutter project.
+Repository ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Mobile II** di **UTB**.
 
-## Getting Started
+Aplikasi berupa halaman profil sederhana yang dibangun menggunakan **Flutter** (Material 3) dengan font custom **Poppins** dan logo UTB.
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+Screenshot aplikasi tersedia di dalam folder [`screenshots/`](screenshots/).
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+![Profile App](screenshots/profile_app.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Struktur Proyek
+
+```
+lib/main.dart        # Kode utama aplikasi (tema global & halaman profil)
+assets/              # Logo UTB dan font Poppins
+screenshots/         # Screenshot hasil aplikasi
+```
+
+## Cara Menjalankan
+
+1. Pastikan Flutter SDK sudah terpasang.
+2. Clone repository ini:
+   ```bash
+   git clone https://github.com/HilvanYadhisnata/PemrogramanMobile-II.git
+   cd PemrogramanMobile-II
+   ```
+3. Install dependency:
+   ```bash
+   flutter pub get
+   ```
+4. Jalankan aplikasi:
+   ```bash
+   flutter run
+   ```
+
+## Author
+
+**Hilvan Yadhisnata** – Pemrograman Mobile II, UTB
