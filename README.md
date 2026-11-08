@@ -1,4 +1,4 @@
-﻿# Pemrograman Mobile II â€“ Profile App
+﻿# Pemrograman Mobile II – Profile App
 
 Repository ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Mobile II** di **UTB**.
 
@@ -37,4 +37,4 @@ screenshots/         # Screenshot hasil aplikasi
 
 ## Author
 
-**Hilvan Yadhisnata** â€“ Pemrograman Mobile II, UTB
+**Hilvan Yadhisnata** – Pemrograman Mobile II, UTB
